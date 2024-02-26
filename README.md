@@ -1,4 +1,2 @@
 # RealEstateMERN
 
-new trial
-# MERNREALESTATE
